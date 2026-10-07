@@ -8,7 +8,7 @@ description: "Game Developer portfolio and professional experience"
 
 Game Developer | iOS Engineer | Beginner Artist
 
-📍 (-3 GMT) Brazil, DF Brasilia
+📍 (GMT-3) Brazil, DF Brasilia  
 📧 [devcostaluc@gmail.com](mailto:devcostaluc@gmail.com)  
 💼 [LinkedIn](https://www.linkedin.com/in/lucas-costa-95a462127/)  
 💻 [GitHub](https://github.com/lucasca73)  
