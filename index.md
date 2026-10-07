@@ -12,7 +12,7 @@ Game Developer | iOS Engineer | Beginner Artist
 📧 [devcostaluc@gmail.com](mailto:devcostaluc@gmail.com)  
 💼 [LinkedIn](https://www.linkedin.com/in/lucas-costa-95a462127/)  
 💻 [GitHub](https://github.com/lucasca73)  
-🎮 [Itch.io](https://lucascosta.itch.io/)
+🎮 [Itch.io](https://lucascosta.itch.io/)  
 🎨 [Artstation](https://www.artstation.com/lucasca73)
 
 ---
