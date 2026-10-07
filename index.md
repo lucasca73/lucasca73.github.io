@@ -6,23 +6,24 @@ description: "Game Developer portfolio and professional experience"
 
 # LUCAS COSTA ARAUJO
 
-**Game Developer | iOS Engineer**
+Game Developer | iOS Engineer | Beginner Artist
 
-📍 Location  
+📍 (-3 GMT) Brazil, DF Brasilia
 📧 [devcostaluc@gmail.com](mailto:devcostaluc@gmail.com)  
 💼 [LinkedIn](https://www.linkedin.com/in/lucas-costa-95a462127/)  
 💻 [GitHub](https://github.com/lucasca73)  
-🎮 [Itch.io](https://lucascosta.itch.io/)  
-<!-- 🌐 [Portfolio / Website](https://your-site.com/) -->
+🎮 [Itch.io](https://lucascosta.itch.io/)
+🎨 [Artstation](https://www.artstation.com/lucasca73)
 
 ---
 
 ## About Me
 
 > Love to build systems and create meaningfull things that impact people.
-> 7 years iOS Experience (worked at Fintech, Software Factory, Corporate environments)
+> 7 years iOS Experience (worked at Fintech, Software Factory, Corporate environments, Brazil, Canada, USA).
 > Love to Draw, Imagine and Discuss as a team.
-> Ignion 2018 [itch.io link](https://co7studio.itch.io/ignion)
+> Working remotely since 2021.
+> Fluent in English.
 
 ---
 
@@ -30,9 +31,12 @@ description: "Game Developer portfolio and professional experience"
 
 [The Gold Miner](https://lucascosta.itch.io/gold-miner)
 > 2026 Godot Platform 2D. 1 Week Solo dev submission for GMJAM14.
+<img width=240 src="https://img.itch.zone/aW1hZ2UvNTAyNjk2NS8zMDA5OTMzNC5wbmc=/794x1000/JlJgGh.png">
+<img width=240 src="https://img.itch.zone/aW1hZ2UvNTAyNjk2NS8zMDA5OTYyNC5wbmc=/original/Y1IaNi.png">
 
 [Ignion](https://co7studio.itch.io/ignion)
-> 2018 Unity Platform 2D. 5 people (2 devs, 2 artists, 1 composer)
+> 2018 Unity Platform 2D. Team of 6 (2 devs, 2 artists, 2 composers)
+<img width=240 src="https://img.itch.zone/aW1hZ2UvMjc5MTQ2LzEzNzk3NzUucG5n/original/8eCn9F.png">
 
 Astromath [download link](https://drive.google.com/file/d/0BymhFFuJKE-fWHZZTGxTYW9ra2s/view?usp=sharing&resourcekey=0-oPdkciUSQjh9ExI0y0Dpzw)
 > 2017 made in Java LWJGL. Eductional project for kids that puts math, fast thinking, interpretation in a game.
@@ -49,32 +53,29 @@ Astromath [download link](https://drive.google.com/file/d/0BymhFFuJKE-fWHZZTGxTY
 
 # Game Jams
 
-## The Gold Miner — GMJAM14
+## 2026.9 The Gold Miner — GMJAM14 [Play](https://lucascosta.itch.io/gold-miner)
 
-**2026**
+**Solo dev** In a 2D Platform you mine living gold creatures that inhabit the Gold Mine.
 
-**Role:** SOLO: Programmer / Designer / Artist
+<img width=240 src="https://img.itch.zone/aW1hZ2UvNTAyNjk2NS8zMDA5OTYyNC5wbmc=/original/Y1IaNi.png">
 
-In a 2D Platform you mine living gold creatures that inhabit the Gold Mine.
 
-[Play](https://lucascosta.itch.io/gold-miner)
+## 2026.9 Norca's Noon — CozyFallJam [Play](https://lucascosta.itch.io/norcasnoon)
 
-## Norca's Noon — CozyFallJam
-
-**2026**
-
-**Role:** Programmer / Designer
+**Role:** Programmer / Concept Designer
 
 Norca's Noon is a short platform 2D game where you are an Acorn that fall from your mother tree. Collect coins to pay a bus ticket to a new place where you can grow your own roots.
 
-[Play](https://lucascosta.itch.io/norcasnoon)
+<img width=240 src="https://img.itch.zone/aW1hZ2UvNTA2NDExNS8zMDM0MDc1NC5wbmc=/original/g7%2Blb%2B.png">
+
 
 ---
 
 # Currently Learning
 
 - Godot Engine
-- Traditional Drawing
+- Traditional Drawing and Animation
+- Pixel Art
 - Gameplay Design Principles
 - Game Development architecture
 
@@ -98,3 +99,5 @@ I'm currently open to opportunities involving:
 <small>
 Last updated: 2026-10-07
 </small>
+
+---
